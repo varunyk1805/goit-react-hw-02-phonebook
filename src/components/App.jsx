@@ -1,7 +1,7 @@
 import { Component } from 'react';
-import ContactForm from './ContactForm/ContactForm';
-import Filter from './Filter/Filter';
-import ContactsList from './ContactsList/ContactsList';
+import ContactForm from './ContactForm';
+import Filter from './Filter';
+import ContactsList from './ContactsList';
 import s from './App.module.css';
 
 export default class App extends Component {
